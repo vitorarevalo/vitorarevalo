@@ -11,3 +11,7 @@
 </div>
 
 ##
+
+![Snake animation](https://github.com/vitorarevalo/vitorarevalo/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=vitorarevalo&repo=vitorarevalo&themes=nightowl)](https://github.com/vitorarevalo/vitorarevalo)
